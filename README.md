@@ -2,7 +2,7 @@
 
 Bill.com challenge submission
 
-Rithik Jain
-Sabrina Kim
-Howard Qian
+Rithik Jain,
+Sabrina Kim,
+Howard Qian,
 Akshat Rathi
